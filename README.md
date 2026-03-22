@@ -2,9 +2,10 @@
 Repositorio con contendio teorico acerca de bases de datos
 
 ## Temas
-1. [Arquitecutura](./arquitectura.md)
-2. [Migraciones](./migraciones.md)
-3. [Problema N+1](./problema-n+1.md)
+1. [Arquitecutura](./apuntes/arquitectura.md)
+2. [Migraciones](./apuntes/migraciones.md)
+3. [Problema N+1](./apuntes/problema-n+1.md)
+4. [Transacciones](./apuntes/transacciones.md)
 
 
 
