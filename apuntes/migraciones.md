@@ -27,13 +27,13 @@ Sin migraciones, los cambios en la base de datos se hacen manualmente en cada en
 
 Depende mucho del ecosistema:
 
-- **Flyway** y **Liquibase** → agnósticas al lenguaje, muy usadas en Java
-- **Alembic** → Python / SQLAlchemy
-- **Django Migrations** → integrado en Django
-- **ActiveRecord Migrations** → Ruby on Rails
-- **Prisma Migrate** → Node.js
-- **Knex.js** → Node.js
-- **Entity Framework Migrations** → .NET
+- **Flyway** y **Liquibase:** agnósticas al lenguaje, muy usadas en Java
+- **Alembic:** Python / SQLAlchemy
+- **Django Migrations:** integrado en Django
+- **ActiveRecord Migrations:** Ruby on Rails
+- **Prisma Migrate:** Node.js
+- **Knex.js:** Node.js
+- **Entity Framework Migrations:** .NET
 
 ## Buenas prácticas
 
