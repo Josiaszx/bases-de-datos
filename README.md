@@ -8,3 +8,6 @@ Repositorio con contendio teorico acerca de bases de datos
 4. [Transacciones](./apuntes/transacciones.md)
 5. [Indexación](./apuntes/indexacion.md)
 6. [Fragmentación de bases de datos](./apuntes/db-shardening.md)
+
+## Complementos
+1. [Redis](https://github.com/Josiaszx/redis)
